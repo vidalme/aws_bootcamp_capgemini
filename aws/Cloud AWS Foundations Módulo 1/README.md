@@ -1,4 +1,4 @@
-# trilha AWS
+# Cloud AWS Foundations Módulo 1
 
 ![alt text](image.png)
 
